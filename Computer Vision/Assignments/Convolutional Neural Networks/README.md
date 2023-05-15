@@ -6,7 +6,6 @@ At the end of the experiment, we will be able to:
 - Build another ConvNet for image Classification using the cats-and-dogs dataset
 - Apply Data Augmentation
 
-1. Building a simple CNN
 Let's start with a simple example. We will
 
 Build a CNN with convolution and pooling layers
