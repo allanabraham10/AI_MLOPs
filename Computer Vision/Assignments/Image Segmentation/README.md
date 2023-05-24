@@ -10,6 +10,6 @@ At the end of the experiment, you will be able to:
 ## Dataset
 We will be training the model on the Oxford Pets - IIIT dataset. This contains pet images, their classes, segmentation masks, and head region of interest. We will only use the images and segmentation masks for this experiment.
 The dataset consists of images of 37 pet breeds, with 200 images per breed (~100 each in the training and test splits). Each image includes the corresponding label and pixel-wise masks. The masks are class labels for each pixel. Each pixel is given one of three categories:
-Class 1: Pixel belonging to the pet.
-Class 2: Pixel bordering the pet.
-Class 3: None of the above/a surrounding pixel.
+- Class 1: Pixel belonging to the pet.
+- Class 2: Pixel bordering the pet.
+- Class 3: None of the above/a surrounding pixel.
